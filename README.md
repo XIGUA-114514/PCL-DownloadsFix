@@ -88,7 +88,9 @@ $env:PCL_MS_CLIENT_ID = "你的 Client ID"
 
 ## 相关链接
 
+- 本项目 Issues（反馈与交流）：<https://github.com/XIGUA-114514/PCL-DownloadsFix/issues>
 - PCL 官方仓库：<https://github.com/Meloong-Git/PCL>
 - PCL 官方下载：<https://meloong.com/pcl>
-- 上游讨论区（建议在此反馈与交流）：<https://github.com/Meloong-Git/PCL/discussions>
 - 帮助文档库：<https://github.com/LTCatt/PCL2Help>
+
+> 请在本项目的 Issues 中反馈问题。上游仓库的讨论区仅用于 PCL 本身的问题，本项目为第三方二次创作，相关问题作者无法在此处理。
